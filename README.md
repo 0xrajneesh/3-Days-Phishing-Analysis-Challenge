@@ -11,8 +11,7 @@ Before starting, make sure you have:
 - A text editor (**Notepad++ / VS Code**) OR an email client (**Thunderbird**) installed.  
 - Access to basic **WHOIS** and **IP lookup** tools (online or CLI-based like `whois`, `dig`, `nslookup`).  
 - Download the sample phishing email file:  
-  👉 [Download Sample EML](https://drive.google.com/uc?export=download&id=1QvPkjXAqvGfaZDv1kbjPtaiUDEvCsVwi
-)  
+  👉 [Download Sample EML](./phishing_sample_2.eml)  
 
 *(If running locally, place the `.eml` file in your working folder.)*  
 
